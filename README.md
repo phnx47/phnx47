@@ -1,12 +1,11 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Serge K.</h2>
 
-I'm Serge K
+I'm a technology enthusiast.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Yva.ai
+- 🔭 I’m currently working on [Yva.ai](https://www.yva.ai/)
 - 🌱 I’m currently learning Rust, Go
-- 💬 Ask me about Javascript, .Net, Git
+- 💬 Ask me about Anything
+- 📫 How to reach me: sergey.gh@fastmail.net
 
 -------
 
