@@ -3,7 +3,7 @@
 I'm a technology enthusiast.
 
 - 🔭 I’m currently working on [Yva.ai](https://www.yva.ai/)
-- 🌱 I’m currently learning Rust, Go
+- 🌱 I’m currently learning Rust
 - 💬 Ask me about Anything
 - 📫 How to reach me: sergey.gh@fastmail.net
 
