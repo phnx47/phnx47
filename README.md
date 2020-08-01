@@ -8,6 +8,9 @@ I'm a technology enthusiast.
 - 📫 How to reach me: sergey.gh@fastmail.net
 
 -------
+![Serge's github stats](https://github-readme-stats.vercel.app/api?username=phnx47&show_icons=true&theme=dark&count_private=true)
+
+-------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
@@ -20,3 +23,4 @@ JSON    1 hr 20 mins    ██░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 -------
+
