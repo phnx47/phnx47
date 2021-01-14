@@ -8,5 +8,3 @@ I'm a Software Engineer and a Technology Enthusiast.
 
 -------
 ![Metrics](https://metrics.lecoq.io/phnx47?template=classic&languages=1&languages.ignored=PHP&config.timezone=Asia%2FBangkok)
-
-*Metrics are generated thanks to https://metrics.lecoq.io*
