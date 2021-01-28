@@ -3,7 +3,7 @@
 I'm a Software Engineer and a Technology Enthusiast.
 
 - 🔭 I like Open Source code
-- 🌱 I’m currently learning Rust, Linux, Shell scripting
+- 🌱 I’m currently learning Go, Rust, Linux, Shell scripting
 - 📫 How to reach me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-phnx47-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phnx47/ "Connect on LinkedIn")
