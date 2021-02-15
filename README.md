@@ -6,7 +6,7 @@ I'm a Software Engineer and a Technology Enthusiast.
 - 🌱 I’m currently learning Go, Rust, Linux and Shell scripting
 - 📫 How to reach me 
 
-[![Linkedin Badge](https://img.shields.io/badge/-phnx47-grey?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phnx47/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-phnx47-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phnx47/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-phnx47-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/phnx47 "Contact on Telegram")
 [![GitLab Badge](https://img.shields.io/badge/-phnx47-grey?style=flat&logo=GitLab&logoColor=white)](https://gitlab.com/phnx47 "On GitLab")
 
