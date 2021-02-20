@@ -9,6 +9,6 @@ I'm a Software Engineer and a Technology Enthusiast.
 [![Linkedin Badge](https://img.shields.io/badge/-phnx47-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phnx47/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-phnx47-grey?style=flat&logo=Telegram&logoColor=white)](https://t.me/phnx47 "Contact on Telegram")
 [![GitLab Badge](https://img.shields.io/badge/-phnx47-grey?style=flat&logo=GitLab&logoColor=white)](https://gitlab.com/phnx47 "On GitLab")
-
+![](https://hit.yhype.me/github/profile?user_id=1101691)
 -------
 ![Metrics](https://github.com/phnx47/phnx47/blob/master/github-metrics.svg)
