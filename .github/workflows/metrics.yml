@@ -15,7 +15,7 @@ jobs:
 
           # Options
           user: phnx47
-          template: classic
+          template: terminal
           base: header, activity, community
           config_timezone: Asia/Bangkok
           plugin_stars: yes
